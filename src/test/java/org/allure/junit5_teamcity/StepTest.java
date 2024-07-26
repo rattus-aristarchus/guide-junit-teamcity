@@ -1,4 +1,4 @@
-package org.allure.junit5_jenkins;
+package org.allure.junit5_teamcity;
 
 import io.qameta.allure.Allure;
 import io.qameta.allure.Step;
